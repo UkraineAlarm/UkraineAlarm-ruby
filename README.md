@@ -1,4 +1,4 @@
-# UkraineAlarm
+# UkraineAlarm - the Ruby library for the [Ukraine Alert API](https://api.ukrainealarm.com/)
 
 UkraineAlarm - the Ruby gem for the Ukraine Alert API
 
